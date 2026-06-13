@@ -3,4 +3,6 @@ test-results/
 playwright-report/
 blob-report/
 playwright/.local-browsers/
-.env
+.envnode_modules/ 
+playwright-report/ 
+test-results/ 
